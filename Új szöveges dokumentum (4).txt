@@ -1,0 +1,8 @@
+ip címek serial portra
+alhálózatok + dhcp szerver
+ospf forgalomirányítás
+dhcp-server konfigurálása
+ether-channel(csak a másodikon)
+dns-server
+web-server
+switchen - vlanok létrehozása, és porthoz rendelés, g0/1-re trunk
